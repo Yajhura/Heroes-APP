@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.animation-nav{
+   @apply hover:text-pink-500 transition-colors delay-75 
+}
